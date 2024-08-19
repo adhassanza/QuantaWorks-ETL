@@ -35,7 +35,7 @@ Welcome to QuantumFlow! Adnan's Azure Databricks ETL Solution.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/QuantumFlow-ETL.git
+   git clone https://github.com/adhassanza/QuantumFlow-ETL.git
    cd QuantumFlow-ETL
 2. **Set up Azure Databricks and Azure Data Lake.**
 3. **Configure Azure Key Vault for secure credential management.**
